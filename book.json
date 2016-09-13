@@ -18,7 +18,6 @@
         "disqus",
         "github",
         "sharing",
-        "ga",
         "injection",
         "comments",
         "advanced-emoji",
@@ -49,10 +48,6 @@
                 "instapaper",
                 "vk"
             ]
-        },
-        "ga": {
-            "token": "UA-75457732-1",
-            "configuration": "auto"
         },
         "injection": {
             "js": [
