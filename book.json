@@ -1,19 +1,4 @@
 {
-    "structure": {
-        "readme": "README.md"
-    },
-    "styles": {
-        "website": "style/website.css",
-        "ebook": "style/ebook.css",
-        "pdf": "style/pdf.css",
-        "mobi": "style/mobi.css",
-        "epub": "style/epub.css"
-    },
-    "links": {
-        "sidebar": {
-            "GitHub Project": "https://github.com/nicesu/wiki"
-        }
-    },
     "plugins": [
         "disqus",
         "github",
@@ -26,6 +11,13 @@
         "mathjax",
         "ace"
     ],
+    "styles": {
+        "website": "style/website.css",
+        "ebook": "style/ebook.css",
+        "pdf": "style/pdf.css",
+        "mobi": "style/mobi.css",
+        "epub": "style/epub.css"
+    },
     "pluginsConfig": {
         "disqus": {
             "shortName": "personal"
@@ -61,9 +53,9 @@
             "isShowIssues": true,
             "wisdom": "love code, love life",
             "copyright": "Copyright © sulihuang",
+            "issueNum": 20,
             "style": "symmetrical",
             "repo": "nicesu/wiki",
-            "issueNum": 20,
             "isShowQRCode": true,
             "timeColor": "#a10000",
             "utcOffset": "8",
@@ -72,6 +64,15 @@
             "baseUri": "http://wiki.nice0.com/content/",
             "copyrightColor": "#666",
             "description": "update time:"
+        },
+        "theme-default": {
+            "styles": "",
+            "showLevel": false
+        }
+    },
+    "links": {
+        "sidebar": {
+            "GitHub Project": "https://github.com/nicesu/wiki"
         }
     }
 }
