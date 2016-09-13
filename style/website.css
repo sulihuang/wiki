@@ -235,7 +235,7 @@ pre::-webkit-resizer {
  * book summary
  */
 .book .book-summary {
-    background-image: url(./../pic/summary-background.jpg);
+    background-image: url(./../pic/stock.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
