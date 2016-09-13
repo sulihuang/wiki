@@ -66,10 +66,6 @@
             "copyrightColor": "#666",
             "description": "update time:"
         },
-        "theme-default": {
-            "styles": "",
-            "showLevel": false
-        }
     },
     "links": {
         "sidebar": {
