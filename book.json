@@ -59,17 +59,17 @@
         },
         "page-footer": {
             "isShowIssues": true,
-            "wisdom": "More than a coder, more than a designer",
-            "copyright": "Copyright © aleen42",
+            "wisdom": "love code, love life",
+            "copyright": "Copyright © sulihuang",
             "style": "symmetrical",
-            "repo": "aleen42/PersonalWiki",
+            "repo": "nicesu/wiki",
             "issueNum": 20,
             "isShowQRCode": true,
             "timeColor": "#a10000",
             "utcOffset": "8",
             "format": "yyyy-MM-dd hh:mm:ss",
-            "signature": "Aleen",
-            "baseUri": "https://aleen42.gitbooks.io/personalwiki/content/",
+            "signature": "苏理煌",
+            "baseUri": "http://wiki.nice0.com/content/",
             "copyrightColor": "#666",
             "description": "update time:"
         }
