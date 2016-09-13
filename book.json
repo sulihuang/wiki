@@ -9,7 +9,8 @@
         "page-footer",
         "page-treeview",
         "mathjax",
-        "ace"
+        "ace",
+        "theme-default"
     ],
     "styles": {
         "website": "style/website.css",
