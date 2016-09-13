@@ -43,8 +43,8 @@
 
 ![](https://img.shields.io/badge/%20%20Code-%20%20%20%20141,371-017277.svg)
 
-![](https://img.shields.io/badge/%20%20HTML-%20%20%20%2039,425-00666b.svg)
-![](https://img.shields.io/badge/%20%20Java-%20%20%20%2025,366-003d40.svg)
+
+
 ![](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%2018,483-00595e.svg)
 ![](https://img.shields.io/badge/%20%20C%23-%20%20%20%2016,960-003d40.svg)
 ![](https://img.shields.io/badge/%20%20C-%20%20%20%2011,337-05575b.svg)
